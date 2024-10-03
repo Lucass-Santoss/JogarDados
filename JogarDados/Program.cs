@@ -102,11 +102,11 @@ namespace JogarDados
 
                 if (PlacarAcumulado1 > PlacarAcumulado2)
                 {
-                    mensagem = "O vencedor da partida foi o jogador: " + NomeJogador1 + " com" + PlacarAcumulado1 + "pontos. Parabéns!";
+                    mensagem = "O vencedor da partida foi o jogador: " + NomeJogador1 + " com " + PlacarAcumulado1 + "pontos. Parabéns!";
                 }
                 else if (PlacarAcumulado2 > PlacarAcumulado1)
                 {
-                    mensagem = "O vencedor da partida foi o jogador: " + NomeJogador2 + " com" + PlacarAcumulado2 + "pontos. Parabéns!";
+                    mensagem = "O vencedor da partida foi o jogador: " + NomeJogador2 + " com " + PlacarAcumulado2 + "pontos. Parabéns!";
                 }
                 else
                 {
